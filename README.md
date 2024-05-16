@@ -9,7 +9,6 @@ Improving the efficiency and interpretability of neural networks.
 Application of AI in solving real-world problems, particularly in education.
 
 👨‍💻 Current Projects:
-Leading a project on developing more efficient LLMs that require less computational resources.
 Collaborating on a cross-disciplinary project to utilize LLMs for enhancing language learning tools.
 Exploring the use of AI in predictive analytics for humanity.
 
